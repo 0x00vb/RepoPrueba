@@ -1,0 +1,7 @@
+total 40
+drwxrwxr-x 3 valentino valentino  4096 ago 20 00:12 .
+drwxrwxr-x 3 valentino valentino  4096 ago 19 23:39 ..
+-rwxrwxr-x 1 valentino valentino 16744 ago 20 00:12 a.out
+-rw-rw-r-- 1 valentino valentino  2325 ago 20 00:12 bot.c
+-rw-rw-r-- 1 valentino valentino   818 ago 20 00:00 c2.py
+drwxrwxr-x 3 valentino valentino  4096 ago 20 00:12 repo
